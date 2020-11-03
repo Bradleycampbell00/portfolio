@@ -9,6 +9,7 @@ html {
 
 body {
     margin-bottom: 60px;
+    background-color: rgb(201, 201, 201);
 }
 .margin {
   margin-left: 20px;
@@ -33,15 +34,19 @@ body {
   width: 100%;
 }
 
-.container {
+.box {
 margin-top: 50px;
 height: 100%;
 width: 100%;
 margin-left: 50px;
 }
 
-.grey {
-    background-color: grey;
+.content {
+    width: 570px;
+}
+
+.white {
+    background-color: white;
 }
 
 footer {
@@ -59,10 +64,9 @@ footer {
       width: 80%;
       height: 100%;
     }
-  
-    /* The wrapper's width will be 600px */
-    .wrapper {
-      width: 600px;
-    }
-  }
+    
+}
+
+
+
   
