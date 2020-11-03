@@ -15,3 +15,7 @@ created the index webpage and use that as my base for the rest of the webpages.
 ![image](\assets\images\index.png)
 
 then i created a css page to add more styles than just the bootstrap had.+
+
+
+
+
