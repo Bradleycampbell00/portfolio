@@ -39,6 +39,11 @@ body {
   height: 250px;
 }
 
+.homeImage {
+  width: 350px;
+  height: 350px;
+}
+
 .box {
 margin-top: 50px;
 height: 100%;
